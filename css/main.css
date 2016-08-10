@@ -46,7 +46,7 @@ button{
 	font-size: 23px;
 }
 footer{
-	background-color: black;
+	background-color: #2D2D2D;
 	color: white;
 	padding: 3%;
 	margin-top: 3%;
@@ -62,4 +62,34 @@ footer{
 	width: 1167px;
 	border: 1px dotted gray;
 	margin-top: 3%;
+}
+span{
+	color: red;
+}
+.follow{
+	background-color: red;
+	width: 60px;
+}
+i{
+	color: #888;
+}
+.bot{
+	background-color: black;
+	color: white;
+	border: none;
+	height: 40px;
+}
+form{
+	border: inset #888;
+	height: 50px;
+	width: 90%;
+	background-color: black;
+
+}
+.border{
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #888;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 2%;
 }
